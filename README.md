@@ -20,7 +20,7 @@ A lightweight package to send emails using company-specific credentials retrieve
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/Deep-1507/repository-name.git
    cd repository-name
    ```
 2. Install dependencies:
