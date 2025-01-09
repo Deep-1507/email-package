@@ -1,5 +1,3 @@
-
-```markdown
 # Email Sending Service
 
 A lightweight package to send emails using company-specific credentials retrieved from an external API.
